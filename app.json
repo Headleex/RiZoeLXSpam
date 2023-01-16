@@ -15,7 +15,7 @@
   "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "16207458",
+        "value": "",
         "required": true
       },
       "ALIVE_PIC": {
@@ -25,17 +25,17 @@
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "1662cc4a046245620aba87cf87a6bdbe",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Fill Bot Token If You want Spam Assistant else Leave it blank",
-        "value": "5930883809:AAFGJFIr54jm2t8KN1pTN_qe1eIY1-4lv0k",
+        "value": "",
         "required": false
       },
       "STRING": {
         "description": "Telethon String Session",
-        "value": "1ApWapzMBu3xC8qqNYG5ZwPg2cz7CbqeoiUQ1XgIF49Cs4YeTCRV8p7OUawo2LB_lhi_QkNTOIEE9SPn0-gDfVQ3GYiCqeh3fBSVyydeG-_VcfVOEH4v46tIsIKWmXX_EVFJbLQm_vW9349pDJ_0_mk-H7OflSpQleU59e1IvajebMubvosA6G0hzSRW69-J0U240Tl8Ly6_uWenRHTGWoRk0OJNfze1rsth8RU9vDgtgXj94FKK7kH91WQG1LW0Cja8okrnlskRzbi0BRjuN5grPjy6-gau5bukMcrZNXEXbIKdciRNvisvw_xrPDlRtYXNbkO1fv_P_CW_-4eS7fDaMDrB4W4c=",
+        "value": "",
         "required": true
       },
       "STRING2": {
@@ -235,17 +235,17 @@
       },      
        "SUDO_USER": {
             "description": "Sudo users id space by space or leave blank",
-            "value": "5635977626",
+            "value": "",
             "required": false
      },
        "FULLSUDO": {
             "description": "Full Sudo Users Id (This Sudo Users have All access of Spam Userbots",
-            "value": "5635977626",
+            "value": "",
             "required": false
         },
       "OWNER_ID": {
             "description": "Sudo users id space by space",
-            "value": "5635977626",
+            "value": "",
             "required": true
         },
       "CMD_HNDLR": {
